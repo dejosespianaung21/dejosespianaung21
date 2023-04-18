@@ -1,4 +1,12 @@
-### Hi there 👋
+# CURRICULUM VITAE
+- NAMA : DEJOSES MESIAS PIANAUNG
+- Tempat, tanggal lahir : TAHUNA,31-12-2002
+- Jenis Kelamin : LAKI-LAKI
+- Alamat : KELURAHAN DUMUHUNG
+## PENDIDIKAN 
+- SEKOLAH DASAR : SDN INPRES DUHUMUNG
+- SMP : SMP NEGERI 2 TAHUNA
+- SMA : NEGERI 1 TAHUNA
 
 <!--
 **dejosespianaung21/dejosespianaung21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
